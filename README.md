@@ -1,2 +1,2 @@
 # My-First-Website
-Information about pixels
+Trying to understand how to structure it and add color.
